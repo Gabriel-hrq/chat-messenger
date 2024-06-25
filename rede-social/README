@@ -1,0 +1,8 @@
+requisitos do projeto
+
+-Utilizar somente Python, sem nenhuma biblioteca ou conexão com bd
+-Criar repositório GIT
+-Será uma aplicação básica orientada a objetos de chat-messager em Python
+-Um usuário cadastrado poderá enviar mensagens para outros usuários
+-Cada usuário será um objeto
+-
