@@ -5,4 +5,5 @@ requisitos do projeto
 -Será uma aplicação básica orientada a objetos de chat-messager em Python
 -Um usuário cadastrado poderá enviar mensagens para outros usuários
 -Cada usuário será um objeto
--
+-Cada mensagem será trackeada, sera uma classe do modelo e conterá id, conteúdo, quem enviou, quem recebeu e o datetime da mensagem
+-Funçoes hash serão utilizadas para mapear as mensagens
